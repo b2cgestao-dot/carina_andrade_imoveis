@@ -1,8 +1,7 @@
 {
   "name": "carteira-imoveis-carina",
   "version": "1.0.0",
-  "description": "Serverless function que expoe a carteira de imoveis da Carina Andrade como HTML para crawler do agente de IA",
-  "type": "module",
+  "description": "Ponte HTML entre Google Sheets e WebCrawler do AvanceCRM",
   "engines": {
     "node": ">=18"
   }
